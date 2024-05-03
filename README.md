@@ -1,2 +1,5 @@
 # flutt_listview
-Showing a colleague how to make a listview
+
+Make example for a colleague that:
+* makes a randowm array?
+* generates a listview from an array
